@@ -88,11 +88,11 @@ body {
 .mainmenu ul {}
 .mainmenu ul li {
   display: inline-block;
-  margin-left: 15px;
 }
 .mainmenu ul li a {
   color: #fff;
   display: block;
+  margin-left: 10px;
   padding: 5px;
 }
 .mainmenu ul li.btn {
